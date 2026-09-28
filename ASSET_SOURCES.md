@@ -4,15 +4,23 @@
 - `assets/branding/arcadia-logo.jpg` — ARCADIA project logo, optimized for web use.
 
 ## Product Photography
-- `assets/products/product-01.webp` to `product-12.webp` — original text-free outdoor product photography prepared specifically for this storefront, with each item framed as a complete standalone product image.
+- `assets/products/product-01.webp` through `product-12.webp` — individual square product photographs prepared specifically for the ARCADIA storefront.
+- Each product image is a separate local asset and is framed so the complete product remains visible in its card.
+
+## Category Photography
+- `assets/editorial/category-hiking.webp`
+- `assets/editorial/category-camping.webp`
+- `assets/editorial/category-backpacks.webp`
+- `assets/editorial/category-footwear.webp`
+- `assets/editorial/category-hydration.webp`
+
+These are separate lifestyle photographs and are not reused as the corresponding product-card images.
 
 ## Editorial Photography
-- `assets/editorial/hero.webp` — original mountain adventure hero photography.
-- `assets/editorial/journey-mountains.webp` — original mountain trail photography.
-- `assets/editorial/journal-lake.webp` — original alpine lake photography, prepared without embedded typography.
-- `assets/editorial/journey-camp.webp` — original lakeside campsite photography, prepared without embedded typography.
+- `assets/editorial/hero.webp`
+- `assets/editorial/journal-lake.webp`
+- `assets/editorial/journey-camp.webp`
+- `assets/editorial/journey-mountains.webp`
 
-## Image quality rules
-All storefront imagery is stored locally. Product cards use `object-fit: contain` so the complete product remains visible instead of being aggressively cropped. Editorial and hero photography is composed for its target layout.
-
-Before any commercial launch, verify licensing and commercial-use rights for all final photography, branding, product claims, and other assets.
+## Important
+All storefront imagery is stored locally so GitHub Pages does not depend on external image hosts. Before commercial publication, verify final photography, branding, product claims, and any third-party assets for the intended usage rights.

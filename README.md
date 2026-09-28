@@ -69,3 +69,7 @@ The repository is designed for GitHub Pages. Upload the project to the main bran
 ## V2 Image Refinement
 
 V2 replaces product and editorial imagery that contained visible branding, embedded typography, inconsistent framing, or overly aggressive crops. The 12 catalog products now use distinct text-free images matched to their actual product names, while the editorial cards use clean landscape photography without words or interface elements. Product cards and product detail views use contain-style presentation so the complete item remains visible.
+
+## V3 Image Correction
+
+V3 rebuilds the storefront photography presentation so every featured product uses an individual square image with the subject fully framed. Category tiles now use separate lifestyle photography rather than reusing product or hero imagery. Images are stored locally, contain no embedded marketing copy or brand marks, and are presented without unnecessary padding or forced cropping.
