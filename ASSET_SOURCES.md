@@ -1,14 +1,18 @@
-# ARCADIA Asset Sources
+# ARCADIA — Asset Sources
 
 ## Branding
-- `assets/branding/arcadia-logo.jpg` — ARCADIA Outdoor Gear logo, optimized below 1 MB.
+- `assets/branding/arcadia-logo.jpg` — ARCADIA project logo, optimized for web use.
 
-## Product photography
-- `assets/products/product-01.webp` through `product-04.webp` — original product photography generated specifically for this storefront concept.
-- `assets/products/product-05.webp` through `product-12.webp` — locally prepared product visuals for the catalog experience.
+## Product Photography
+- `assets/products/product-01.webp` to `product-12.webp` — original text-free outdoor product photography prepared specifically for this storefront, with each item framed as a complete standalone product image.
 
-## Editorial photography
-- `assets/editorial/*` — locally prepared landscape and outdoor editorial visuals.
+## Editorial Photography
+- `assets/editorial/hero.webp` — original mountain adventure hero photography.
+- `assets/editorial/journey-mountains.webp` — original mountain trail photography.
+- `assets/editorial/journal-lake.webp` — original alpine lake photography, prepared without embedded typography.
+- `assets/editorial/journey-camp.webp` — original lakeside campsite photography, prepared without embedded typography.
 
-## Important
-Before commercial launch, verify final licensing and usage rights for all photography, logos, product designs, fonts, and claims.
+## Image quality rules
+All storefront imagery is stored locally. Product cards use `object-fit: contain` so the complete product remains visible instead of being aggressively cropped. Editorial and hero photography is composed for its target layout.
+
+Before any commercial launch, verify licensing and commercial-use rights for all final photography, branding, product claims, and other assets.

@@ -64,3 +64,8 @@ This is a static demonstration. It does not process real orders or payments.
 The repository is designed for GitHub Pages. Upload the project to the main branch and enable Pages from repository settings. Because assets use relative local paths, the site remains portable.
 
 ## © 2026 ARCADIA Outdoor Gear
+
+
+## V2 Image Refinement
+
+V2 replaces product and editorial imagery that contained visible branding, embedded typography, inconsistent framing, or overly aggressive crops. The 12 catalog products now use distinct text-free images matched to their actual product names, while the editorial cards use clean landscape photography without words or interface elements. Product cards and product detail views use contain-style presentation so the complete item remains visible.
