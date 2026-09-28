@@ -1,7 +1,7 @@
 # ARCADIA — Asset Sources
 
 ## Branding
-- `assets/branding/arcadia-logo.jpg` — ARCADIA project logo, optimized for web use.
+- `assets/branding/arcadia-logo.png` — ARCADIA project logo, optimized for web use.
 
 ## Product Photography
 - `assets/products/product-01.webp` through `product-12.webp` — individual square product photographs prepared specifically for the ARCADIA storefront.
